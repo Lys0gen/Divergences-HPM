@@ -1170,7 +1170,7 @@ country_event = {
 country_event = {
 	id = 999041
 	title = "Tech reform flag"
-	desc = "Universities Enacted"
+	desc = "Scientific Research Enacted"
 	picture = "Unite"
 	
 	trigger = {
@@ -1195,7 +1195,7 @@ country_event = {
 country_event = {
 	id = 999042
 	title = "Tech activation"
-	desc = "Universities Implemented"
+	desc = "Scientific Research Implemented"
 	picture = "Unite"
 	
 	trigger = {
@@ -1449,7 +1449,7 @@ country_event = {
 country_event = {
 	id = 999053
 	title = "Tech reform flag"
-	desc = "Scientific Research Enacted"
+	desc = "Universities Enacted"
 	picture = "Unite"
 	
 	trigger = {
@@ -1474,7 +1474,7 @@ country_event = {
 country_event = {
 	id = 999054
 	title = "Tech activation"
-	desc = "Scientific Research Implemented"
+	desc = "Universities Implemented"
 	picture = "Unite"
 	
 	trigger = {
